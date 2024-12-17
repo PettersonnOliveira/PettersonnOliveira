@@ -24,9 +24,16 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
+  <!-- Estatísticas Gerais -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PettersonnOliveira&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <!-- Streak (Contribuições) -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PettersonnOliveira&theme=radical" alt="GitHub Streak" />
+
+  <!-- Linguagens mais usadas -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PettersonnOliveira&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
+
 
 ---
 
