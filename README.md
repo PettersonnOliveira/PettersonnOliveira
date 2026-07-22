@@ -67,7 +67,7 @@ Gerenciamento de academia: alunos, treinos e matrículas. Projeto de repetição
 <div align="center">
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PettersonnOliveira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PettersonnOliveira&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PettersonnOliveira&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" width="48%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PettersonnOliveira&theme=tokyonight&hide_border=true" alt="Streak stats" width="97%" />
 
